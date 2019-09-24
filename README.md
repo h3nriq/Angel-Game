@@ -1,4 +1,4 @@
-# SimpleGameJavaScript
+# Angel Game
 <n1> README em construção </n1>
 
 # To play
